@@ -90,7 +90,7 @@ main(int argc, char **argv) {
 
     // defaults
     char* passchar = "*";
-    char* fontname = "-*-dejavu sans-bold-r-*-*-*-420-100-100-*-*-iso8859-1";
+    char* fontname = "-bitstream-terminal-medium-r-normal--18-140-100-100-c-110-iso8859-1-";
     char* username = ""; 
     int showline = 1;
     int xshift = 0;
